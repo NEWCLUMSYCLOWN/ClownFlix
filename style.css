@@ -29,3 +29,18 @@ section{
     justify-content: space-around;
     align-items: center;
 }
+h3{
+    color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.carrossel-de-filmes{
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+}
+.filmes{
+    display: flex;
+}
+.filmes img{
+    width: 300px;
+}
