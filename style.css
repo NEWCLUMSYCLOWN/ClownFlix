@@ -21,5 +21,7 @@ hr{
     background-color: aliceblue;
 }
 section{
-    display: flex
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
 }
