@@ -8,9 +8,11 @@ h1{
 }
 body{
     background-color: #000000;
+    margin: 0px;
 }
 h2{
     color: #d5b5ff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 p{
     color: #d5b5ff;
