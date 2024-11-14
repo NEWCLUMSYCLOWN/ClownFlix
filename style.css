@@ -31,6 +31,8 @@ section{
 }
 h3{
     color: aliceblue;
+    padding-left: 30px;
+    font-size: 28px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .carrossel-de-filmes{
